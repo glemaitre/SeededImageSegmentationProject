@@ -7,7 +7,7 @@
 
 /*
  * This class extends from QApplication. The basic difference is that once an
- * exception is detected, the application show an error message. The window is 
+ * exception is detected, the application shows an error message. The window is
  * not closed.
  *
  * @see https://rohieb.wordpress.com/2010/07/08/qt-throw-exceptions-from-signals-and-slots/
